@@ -1,2 +1,2 @@
-# titan-check
-Background checker
+## Titan Check
+Hackathon Project for {Tech: Berlin} AI Hackathon
